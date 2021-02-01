@@ -45,9 +45,10 @@ You've got access to a lot of Github data. There's a placeholder component at [.
 
 Some examples:
 
-- Search
-- Analyzer
-- Vulnerability Checker
+- Search Repos
+- List which repos have been forked by your followers
+- Compare analytics between multiple repos
+- List all vulnerabilities of selected repos, filter by vulnerability type
 
 Here are some ground rules:
 
