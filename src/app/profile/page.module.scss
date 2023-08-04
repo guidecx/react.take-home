@@ -1,0 +1,21 @@
+.ProfilePage {
+  &__Title {
+    @apply pt-2 text-2xl;
+  }
+
+  &__SubTitle {
+    @apply font-thin text-xl leading-loose;
+  }
+
+  &__Followers {
+    @apply flex flex-row font-thin italic;
+  }
+}
+
+.Avatar {
+  @apply ring-4 ring-gray-500 ring-offset-2 rounded-3xl;
+
+  &__Image {
+    @apply rounded-3xl w-full;
+  }
+}
